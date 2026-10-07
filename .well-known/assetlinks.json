@@ -1,0 +1,26 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.devarsh.orthovault",
+      "sha256_cert_fingerprints": [
+        "D0:42:FF:C9:4B:D5:91:E7:D7:93:6D:E2:A6:B1:1B:6A:CF:DC:6E:2A:F7:E3:39:CE:E3:A6:EB:E8:91:34:73:6A",
+        "7B:1C:4A:8A:91:47:7C:EC:67:61:68:04:CF:13:AF:68:A6:CF:B8:36:7E:F6:3E:F3:2B:E8:EC:63:D2:6B:F1:0F",
+        "35:E8:C3:69:B3:D1:33:6D:11:9F:BD:28:F1:D6:3E:04:7B:EF:BE:2F:0D:7B:71:32:C0:ED:E7:11:9F:9B:5D:D8",
+        "C5:5E:DE:97:7F:05:91:BB:21:0C:7F:47:34:1F:15:92:B6:8D:73:4B:90:F2:24:FB:0C:67:EF:F9:55:FA:DC:F9",
+        "99:3E:9F:32:BC:DF:2F:7D:49:32:47:D6:EB:EF:5E:2D:35:57:A7:3A:33:64:BE:2E:3B:C2:9A:1C:0C:7B:EC:C2"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.orthovault.app",
+      "sha256_cert_fingerprints": [
+        "21:3B:36:DF:34:4E:25:22:90:AF:42:5A:75:F5:24:14:4E:AD:03:1E:07:EE:CB:88:4F:3B:DC:7C:96:19:BC:2A"
+      ]
+    }
+  }
+]
